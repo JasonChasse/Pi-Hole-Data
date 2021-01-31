@@ -1,2 +1,7 @@
 *.googlevideo.com
 *.googlevideo.*
+*.youtube.*
+*.ytimg.*
+*.youtube-nocookie.*
+*.googlevideo.*
+*.ggpht.*
